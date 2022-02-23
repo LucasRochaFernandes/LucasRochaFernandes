@@ -2,6 +2,6 @@
 
 - 🌱 I’m currently learning Javascript, C++ 
 - :books: I am studying at UNIFEI in Computer Engineering
-- :man_student: technician IT-IFMG
+- :man_student: Technician IT-IFMG
 
 
