@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning Javascript (Typescript), C++ and Python...
 - 💻 I've worked with Python and Typescript frameworks
-- :books: I am studying at UNIFEI in Computer Engineering
+- :books: I'm studying at UNIFEI in Computer Engineering
 - :man_student: Technician IT-IFMG
 
 <div style="display: inline_block"><br>
