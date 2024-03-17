@@ -1,6 +1,6 @@
 ### Aoba 👋 :flushed:
 
-- 🌱 I’m currently learning Javascript (Typescript), C++ and Python...
+- 🌱 I’m currently learning Javascript (Typescript), C# and Python...
 - 💻 I've worked with Python and Javascript frameworks
 - :books: I am studying at UNIFEI in Computer Engineering
 - :man_student: Technician IT-IFMG
