@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Javascript (Typescript), C# and Python...
 - 💻 I've worked with Python and Javascript frameworks
 - :books: I'm studying at UNIFEI in Computer Engineering
-- :man_student: Technician IT-IFMG
+- :man_student: Technician IT at IFMG
 
 <div style="display: inline_block"><br>
  <img align="center" alt="Lucas-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
