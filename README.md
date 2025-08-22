@@ -1,55 +1,75 @@
-# 👋 Hey there! Welcome to my GitHub profile! 😄
+<h1 align="center">Hi there, I'm Lucas Rocha Fernandes 👋</h1>
+<h3 align="center">Software Developer | Computer Engineering</h3>
 
-I'm Lucas, a passionate **developer** with experience in **Python**, **C#**, and **TypeScript**. Here’s a bit about me:
+<br>
 
-- 🌱 **Currently improving my knowledge in:** C#, Typescript and Python.
-- 💻 **Previously focused on:** Python, Node.js and .NET development.
-- 🎓 **Education:**
-  - Bachelor’s in **Computer Engineering** at UNIFEI (Expected in 2025).
-  - Technician in IT at **IFMG** (2020).
-- 🔧 **Technologies I love working with:**
-  - Frontend: Blazor, React.js (Typescript).
-  - Backend: Node.js, .NET (C#), Python.
-  - Databases: PostgreSQL, SQL Server, MongoDB.
-
-<br/>
-<p align="center">
-  <!-- Python -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" height="40" width="40">
-  <!-- TypeScript -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" height="40" width="40">
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" height="40" width="40">
-  <!-- C# -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" height="40" width="40">
-   <!-- .NET -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" height="40" width="40">
-  <!-- PostgreSQL -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="40" width="40">
-  <!-- SQL Server -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="SQL Server" height="40" width="40">
-  <!-- MongoDB -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="40" width="40">
-
-  <!-- React -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" height="40" width="40">
-  <!-- Azure -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a8/Microsoft_Azure_Logo.svg" alt="Azure" height="40" width="40">
+<p align="left"> 
+  I'm a Computer Engineering student at UNIFEI, passionate about technology and focused on building efficient and scalable software solutions. With a solid foundation in both back-end and front-end development, I am constantly seeking to improve my skills and learn new technologies.
 </p>
 
+- 🌱 I’m currently focusing on: **.NET, C#, and React with TypeScript**.
+- 🎓 Education: **IT Technician (IFMG)** and **Computer Engineering (UNIFEI)** undergraduate.
+- 💬 Feel free to talk to me about **web development, software architecture, and new tech**.
 
+<br>
+
+## 🛠️ Technologies & Tools
+
+<p align="center">
+  <strong>Languages:</strong>&nbsp;
+  <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/>
+  </a>
+  </p>
  
-## 📫 Get in Touch
-Feel free to connect with me or chat about coding, projects, or any interesting idea! 😊
+<p align="center">
+  <strong>Backend:</strong>&nbsp;
+  <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg" alt="dotnet" width="40" height="40"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  </a>
+  </p>
 
 <p align="center">
-  <a href="https://api.whatsapp.com/send/?phone=%2B5533998076743&text&type=phone_number&app_absent=0" target="_blank">
-    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  <strong>Frontend:</strong>&nbsp;
+  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
   </a>
-  <a href="https://www.linkedin.com/in/lucas-rocha-fernandes-224927187" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  &nbsp;&nbsp;
+  <a href="https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="blazor" width="40" height="40"/>
+  </a>
+  </p>
+
+  <p align="center">
+  <strong>Databases:</strong>&nbsp;
+  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="sqlserver" width="40" height="40"/>
+  </a>
+    &nbsp;&nbsp;
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
   </a>
 </p>
 
+## 📫 How to Reach Me
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/lucas-rocha-fernandes-224927187" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://api.whatsapp.com/send/?phone=%2B5533998076743" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
+</p>
