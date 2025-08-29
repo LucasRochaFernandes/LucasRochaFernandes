@@ -7,7 +7,7 @@
   I'm a Computer Engineering student at UNIFEI, passionate about technology and focused on building efficient and scalable software solutions. With a solid foundation in both back-end and front-end development, I am constantly seeking to improve my skills and learn new technologies.
 </p>
 
-- 🌱 I’m currently focusing on: **.NET, C#, and React with TypeScript**.
+- 🌱 I’m currently focusing on: **.NET Core+C# and Angular+TypeScript**.
 - 🎓 Education: **IT Technician (IFMG)** and **Computer Engineering (UNIFEI)** undergraduate.
 - 💬 Feel free to talk to me about **web development, software architecture, and new tech**.
 
